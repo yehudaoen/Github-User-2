@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User 2</string>
+    <string name="about">About</string>
+    <string name="hint">Search User</string>
+
+    <string name="Repository">Repository : </string>
+    <string name="Location">Location : </string>
+    <string name="Company">Company : </string>
+
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+
+    <string-array name="name" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
